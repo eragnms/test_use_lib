@@ -2,4 +2,6 @@
 
 #include <iostream>
 
-void t_hello();
+namespace libtl {
+        void t_hello();
+}

@@ -3,5 +3,5 @@
 void wlib::hello()
 {
         std::cout << "Hello world from wlib!" << std::endl;
-        t_hello();
+        libtl::t_hello();
 }
