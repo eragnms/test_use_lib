@@ -1,5 +1,5 @@
 #pragma once
 
-namespace libtl {
+//namespace libtl {
 #include "hello.h"
-}
+//}

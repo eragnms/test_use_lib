@@ -2,4 +2,4 @@
 
 #include <iostream>
 
-void hello();
+void t_hello();
