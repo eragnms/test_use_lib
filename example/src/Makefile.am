@@ -1,7 +1,8 @@
 AM_CPPFLAGS = -I$(top_srcdir)/wlib/include \
--I../include
+-I../include \
+I$(top_srcdir)/libtl
 
 bin_PROGRAMS = example
 
 example_SOURCES = example.cpp
-example_LDADD = $(top_srcdir)/wlib/src/libwlib.a
+example_LDADD = $(top_srcdir)/wlib/src/libwlib.a $(top_srcdir)/libtl/libtl.a
