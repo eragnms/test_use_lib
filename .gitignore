@@ -23,7 +23,6 @@
 # Compiled Static libraries
 *.lai
 *.la
-#*.a
 *.lib
 
 # Executables
@@ -58,7 +57,6 @@ stamp-h1
 *.o
 *.la
 *.so*
-*.a
 .deps
 *.tar*
 *.zip
