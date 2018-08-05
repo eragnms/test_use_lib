@@ -25,6 +25,8 @@ AC_CONFIG_FILES([
             wlib/src/Makefile
             example/Makefile
 			example/src/Makefile
+            libtl/Makefile
+			libtl/src/Makefile
             ])
 # https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html
 # Rerun ./copnfigure after changing flags

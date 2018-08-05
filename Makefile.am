@@ -1,2 +1,2 @@
 ACLOCAL_AMFLAGS = -I m4
-SUBDIRS = wlib example
+SUBDIRS = libtl wlib example

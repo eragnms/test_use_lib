@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "../../libtl/libtl.h"
+#include "libtl.h"
 
 namespace wlib {
 void hello();
