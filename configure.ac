@@ -43,9 +43,7 @@ CXXFLAGS="$CXXFLAGS \
 -Wformat=2 \
 -Wmissing-format-attribute \
 -Wformat-nonliteral \
--fvisibility=default \
--lbladeRF \
--larmadillo"
+-fvisibility=default "
 AC_OUTPUT
 # -Wswitch-enum \
 # -Wswitch-default \
