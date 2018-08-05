@@ -1,0 +1,98 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+#*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Autotools
+/autom4te.cache/
+/config/
+Makefile
+Makefile.in
+aclocal.m4
+app.info
+compile
+config.h
+config.h.in
+config.log
+config.status
+configure
+configure.scan
+coverage_report
+depcomp
+install-sh
+libtool
+m4
+missing
+stamp-h1
+*~
+*.html
+*.log
+*.o
+*.la
+*.so*
+*.a
+.deps
+*.tar*
+*.zip
+*.lo
+*.gcno
+*.gcda
+src/bin/dfym
+ltmain.sh
+
+# Mats
+*~
+wcdma_scanner/wcdma_scanner
+GPATH
+GRTAGS
+GTAGS
+GSYMS
+#*
+*#
+example/src/ws_example
+test_trx_calc
+*.trs
+read_test_vectors
+compare_data
+test_iq_data
+test_cell_search
+test_cell_processor
+test_scanner_tools
+test_path_searcher
+end_to_end
+test_finger_processor
+test_freq_processor
+test_bch_decoder
+test_viterbi
+test_matlab_to_armadillo
+test_compare_mo_cpp_data
+example/src/ws_example_cli
+test_exec_time_meter
